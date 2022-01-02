@@ -1,10 +1,11 @@
 <template>
   <v-card>
-    <v-btn
+    <v-btn v-if="selected.length > 1"
       color="secondary"
       elevation="12"
-      v-on:click="compare"
-    >Compare Products</v-btn>
+      v-on:click="compare()"
+    >Compare Products {{`(${selected.length})`}}
+    </v-btn>
     <v-card-title>
       Spherical Lenses
       <v-spacer></v-spacer>
@@ -30,25 +31,13 @@
   </v-card>
 </template>
 
-
 <script>
 
 import optoSigma from '../optoSigma.json'
 import thorlabs from '../thorlabs.json'
 
 export default {
-  name: 'HelloWorld',
-  methods: {
-    compare: function () { 
-      if(this.selected.length > 0) {
-        const compareProducts = []
-        for (const product of this.selected) {
-            compareProducts.push({...product})
-        }
-        console.log(`compareProducts`, compareProducts)
-      }
-    }
-  },
+  name: 'Table',
   mounted() {
     const allProducts = [...optoSigma, ...thorlabs]
     this.products = allProducts.map(data => {
@@ -56,6 +45,21 @@ export default {
         return data[key]
       }
     })
+  },
+  methods: {
+    compare () { 
+      if (this.selected.length > 1) {
+        this.$router.push({
+          name: 'Comparison',
+          params: {
+            comparison: this.selected,
+            headers: this.headers
+          }
+        })
+      } else {
+        alert('Please select at least two products to compare')
+      }
+    },
   },
   data () {
     return {
