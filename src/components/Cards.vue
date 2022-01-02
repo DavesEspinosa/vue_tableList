@@ -1,4 +1,19 @@
-<template>
+<template v-if="selected.length > 0">
+<div>
+      <v-btn
+        class="ma-2"
+        color="indigo"
+        dark
+        v-on:click="goBack()"
+
+      >
+        <v-icon
+          dark
+          left
+        >
+          mdi-arrow-left
+        </v-icon>Back
+      </v-btn>
  <v-container class="grey lighten-5">
     <v-row
       no-gutters
@@ -63,6 +78,7 @@
       </v-col>
     </v-row>
   </v-container>
+</div>
 </template>
 
 <script>
@@ -70,15 +86,14 @@
 export default {
   name: 'Cards',
   props: ['comparison', 'headers'],
-
-  data () {
-      return {
-    }
+  methods: {
+    goBack () { 
+        this.$router.back();
+    },
   }
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 .text--primary {
   font-size: 1.2rem;
