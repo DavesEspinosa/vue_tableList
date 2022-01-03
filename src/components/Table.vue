@@ -45,11 +45,9 @@ import thorlabs from '../thorlabs.json'
 export default {
   name: 'Table',
   mounted() {
-    const allProducts = [...optoSigma, ...thorlabs]
-    this.products = allProducts.map(data => {
-      for (const key in data) {
-        return data[key]
-      }
+    this.products = optoSigma.concat(thorlabs)
+    this.products.forEach(product => {
+      this.products[product.sku] = product
     })
   },
   methods: {

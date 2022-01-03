@@ -5,7 +5,6 @@
         color="indigo"
         dark
         v-on:click="goBack()"
-
       >
         <v-icon
           dark
@@ -41,9 +40,15 @@
         style="min-width: 100px; max-width: 100%;"
         class="flex-grow-1 flex-shrink-0"
       >
+      <v-sheet 
+            class="mx-auto"
+            elevation="5"
+            max-width="90%"
+        >
         <v-slide-group
         v-model="comparison"
         active-class="success"
+        mobile-break-point="1000"
         >
         <v-card
             v-for="product in comparison"
@@ -75,6 +80,7 @@
             </v-card-text>
         </v-card>
         </v-slide-group>
+      </v-sheet>
       </v-col>
     </v-row>
   </v-container>

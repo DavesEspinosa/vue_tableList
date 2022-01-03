@@ -41,7 +41,7 @@ def thorlabs(url):
             for key in extra_info:
                 if key['sku'] == iteration[0]:
                     data = objectToCompare(iteration[0],key['name'], key['provider'], iteration[1] + " mm", iteration[2] + " mm", key['price'])
-            result.append({iteration[0]: data })
+            result.append(data)
 
     create_json(result, "thorlabs.json")
 
@@ -62,7 +62,7 @@ def optoSigma(url):
         name = item.find('a', class_='link').text.replace('\n', ' ').strip()
 
         data = objectToCompare(sku, name[0: name.index("Diameter")], provider[1], diameter, focal_length, price)
-        result.append({sku: data})
+        result.append(data)
 
     create_json(result, "optoSigma.json")
 
