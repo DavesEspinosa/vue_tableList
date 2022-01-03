@@ -1,6 +1,12 @@
 <template>
   <v-card>
-    <v-btn v-if="selected.length > 1"
+     <v-btn v-if="selected.length <= 1"
+      disabled
+      color="secondary"
+      elevation="12"
+    >Compare Products {{`(${selected.length})`}}
+    </v-btn>
+    <v-btn v-else
       color="secondary"
       elevation="12"
       v-on:click="compare()"
