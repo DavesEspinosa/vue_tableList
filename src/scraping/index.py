@@ -13,10 +13,10 @@ def thorlabs(url):
     extra_info = []
     result = []
 
-    for test in table_price_name:
-        sku = test.find('td', class_="prodNumber partNumLT8").text
-        price = test.find('td', class_="CSS4", align="right", style="padding-right: 15px;").text
-        name = test.find('td', class_="prodDesc").text.replace("Ø", "D")
+    for header in table_price_name:
+        sku = header.find('td', class_="prodNumber partNumLT8").text
+        price = header.find('td', class_="CSS4", align="right", style="padding-right: 15px;").text
+        name = header.find('td', class_="prodDesc").text.replace("Ø", "D")
         extra_info.append({ 
             "sku": sku, 
             "price": price, 
@@ -31,18 +31,18 @@ def thorlabs(url):
 
     del main_info[:2]
 
-    for details in main_info:
-        for extract in details.find_all('tr'):
-            iteration = []
-            for cell in extract.find_all('td'):
-                if not cell.find('a'):
-                    iteration.append(cell.text.replace('\n', ' ').strip())
+    for t_body in main_info:
+        for each_row in t_body.find_all('tr'):
+            optical = []
+            for data_cell in each_row:
+                if not data_cell.find('a'):
+                    optical.append(data_cell.text.replace('\n', ' ').strip())
 
-            for key in extra_info:
-                if key['sku'] == iteration[0]:
-                    data = objectToCompare(iteration[0],key['name'], key['provider'], iteration[1] + " mm", iteration[2] + " mm", key['price'])
+            for optic in extra_info:
+                if optic['sku'] == optical[0]:
+                    data = objectToCompare(optical[0], optic['name'], optic['provider'], optical[1] + " mm", optical[2] + " mm", optic['price'])
             result.append(data)
-
+            
     create_json(result, "thorlabs.json")
 
 def optoSigma(url):

@@ -1,19 +1,227 @@
 [
     {
-        "sku": "SLB-15-90P",
-        "product": "Plano Convex Lens 15mm ",
+        "sku": "SLB-30-50P",
+        "product": "Plano Convex Lens 30mm ",
         "provider": "OptoSigma",
-        "diameter": "15mm",
-        "focal_length": "90mm",
+        "diameter": "30mm",
+        "focal_length": "50mm",
+        "price": "19.90 €"
+    },
+    {
+        "sku": "SLB-40-80P",
+        "product": "Plano Convex Lens 40mm ",
+        "provider": "OptoSigma",
+        "diameter": "40mm",
+        "focal_length": "80mm",
+        "price": "35.40 €"
+    },
+    {
+        "sku": "SLB-50-900P",
+        "product": "Plano Convex Lens 50mm ",
+        "provider": "OptoSigma",
+        "diameter": "50mm",
+        "focal_length": "900mm",
+        "price": "25.50 €"
+    },
+    {
+        "sku": "SLB-06-30P",
+        "product": "Plano Convex Lens 6mm ",
+        "provider": "OptoSigma",
+        "diameter": "6mm",
+        "focal_length": "30mm",
+        "price": "14.20 €"
+    },
+    {
+        "sku": "SLB-60-300P",
+        "product": "Plano Convex Lens 60mm ",
+        "provider": "OptoSigma",
+        "diameter": "60mm",
+        "focal_length": "300mm",
+        "price": "38.00 €"
+    },
+    {
+        "sku": "SLB-12.7-60P",
+        "product": "Plano Convex Lens 12.7mm ",
+        "provider": "OptoSigma",
+        "diameter": "12.7mm",
+        "focal_length": "60mm",
         "price": "15.10 €"
     },
     {
-        "sku": "SLB-25.4-30P",
-        "product": "Plano Convex Lens 25.4mm ",
+        "sku": "SLB-25-50P",
+        "product": "Plano Convex Lens 25mm ",
         "provider": "OptoSigma",
-        "diameter": "25.4mm",
+        "diameter": "25mm",
+        "focal_length": "50mm",
+        "price": "17.70 €"
+    },
+    {
+        "sku": "SLB-30-80P",
+        "product": "Plano Convex Lens 30mm ",
+        "provider": "OptoSigma",
+        "diameter": "30mm",
+        "focal_length": "80mm",
+        "price": "19.90 €"
+    },
+    {
+        "sku": "SLB-40-120P",
+        "product": "Plano Convex Lens 40mm ",
+        "provider": "OptoSigma",
+        "diameter": "40mm",
+        "focal_length": "120mm",
+        "price": "25.50 €"
+    },
+    {
+        "sku": "SLB-50-1500P",
+        "product": "Plano Convex Lens 50mm ",
+        "provider": "OptoSigma",
+        "diameter": "50mm",
+        "focal_length": "1500mm",
+        "price": "25.50 €"
+    },
+    {
+        "sku": "SLB-07-15P",
+        "product": "Plano Convex Lens 7mm ",
+        "provider": "OptoSigma",
+        "diameter": "7mm",
+        "focal_length": "15mm",
+        "price": "14.20 €"
+    },
+    {
+        "sku": "SLB-60-1000P",
+        "product": "Plano Convex Lens 60mm ",
+        "provider": "OptoSigma",
+        "diameter": "60mm",
+        "focal_length": "1000mm",
+        "price": "38.00 €"
+    },
+    {
+        "sku": "SLB-12.7-100P",
+        "product": "Plano Convex Lens 12.7mm ",
+        "provider": "OptoSigma",
+        "diameter": "12.7mm",
+        "focal_length": "100mm",
+        "price": "15.10 €"
+    },
+    {
+        "sku": "SLB-25-80P",
+        "product": "Plano Convex Lens 25mm ",
+        "provider": "OptoSigma",
+        "diameter": "25mm",
+        "focal_length": "80mm",
+        "price": "17.30 €"
+    },
+    {
+        "sku": "SLB-30-120P",
+        "product": "Plano Convex Lens 30mm ",
+        "provider": "OptoSigma",
+        "diameter": "30mm",
+        "focal_length": "120mm",
+        "price": "19.90 €"
+    },
+    {
+        "sku": "SLB-40-200P",
+        "product": "Plano Convex Lens 40mm ",
+        "provider": "OptoSigma",
+        "diameter": "40mm",
+        "focal_length": "200mm",
+        "price": "25.50 €"
+    },
+    {
+        "sku": "SLB-50-3000P",
+        "product": "Plano Convex Lens 50mm ",
+        "provider": "OptoSigma",
+        "diameter": "50mm",
+        "focal_length": "3000mm",
+        "price": "25.50 €"
+    },
+    {
+        "sku": "SLB-07-30P",
+        "product": "Plano Convex Lens 7mm ",
+        "provider": "OptoSigma",
+        "diameter": "7mm",
         "focal_length": "30mm",
-        "price": "18.10 €"
+        "price": "13.80 €"
+    },
+    {
+        "sku": "SLB-80-200P",
+        "product": "Plano Convex Lens 80mm ",
+        "provider": "OptoSigma",
+        "diameter": "80mm",
+        "focal_length": "200mm",
+        "price": "59.10 €"
+    },
+    {
+        "sku": "SLB-15-30P",
+        "product": "Plano Convex Lens 15mm ",
+        "provider": "OptoSigma",
+        "diameter": "15mm",
+        "focal_length": "30mm",
+        "price": "16.80 €"
+    },
+    {
+        "sku": "SLB-25-120P",
+        "product": "Plano Convex Lens 25mm ",
+        "provider": "OptoSigma",
+        "diameter": "25mm",
+        "focal_length": "120mm",
+        "price": "17.30 €"
+    },
+    {
+        "sku": "SLB-30-200P",
+        "product": "Plano Convex Lens 30mm ",
+        "provider": "OptoSigma",
+        "diameter": "30mm",
+        "focal_length": "200mm",
+        "price": "19.90 €"
+    },
+    {
+        "sku": "SLB-40-350P",
+        "product": "Plano Convex Lens 40mm ",
+        "provider": "OptoSigma",
+        "diameter": "40mm",
+        "focal_length": "350mm",
+        "price": "25.50 €"
+    },
+    {
+        "sku": "SLB-50.8-70P",
+        "product": "Plano Convex Lens 50.8mm ",
+        "provider": "OptoSigma",
+        "diameter": "50.8mm",
+        "focal_length": "70mm",
+        "price": "29.40 €"
+    },
+    {
+        "sku": "SLB-08-10P",
+        "product": "Plano Convex Lens 8mm ",
+        "provider": "OptoSigma",
+        "diameter": "8mm",
+        "focal_length": "10mm",
+        "price": "20.10 €"
+    },
+    {
+        "sku": "SLB-80-350P",
+        "product": "Plano Convex Lens 80mm ",
+        "provider": "OptoSigma",
+        "diameter": "80mm",
+        "focal_length": "350mm",
+        "price": "59.10 €"
+    },
+    {
+        "sku": "SLB-15-60P",
+        "product": "Plano Convex Lens 15mm ",
+        "provider": "OptoSigma",
+        "diameter": "15mm",
+        "focal_length": "60mm",
+        "price": "15.50 €"
+    },
+    {
+        "sku": "SLB-25-200P",
+        "product": "Plano Convex Lens 25mm ",
+        "provider": "OptoSigma",
+        "diameter": "25mm",
+        "focal_length": "200mm",
+        "price": "17.30 €"
     },
     {
         "sku": "SLB-30-300P",
@@ -56,12 +264,20 @@
         "price": "59.10 €"
     },
     {
-        "sku": "SLB-15-150P",
+        "sku": "SLB-15-90P",
         "product": "Plano Convex Lens 15mm ",
         "provider": "OptoSigma",
         "diameter": "15mm",
-        "focal_length": "150mm",
+        "focal_length": "90mm",
         "price": "15.10 €"
+    },
+    {
+        "sku": "SLB-25.4-30P",
+        "product": "Plano Convex Lens 25.4mm ",
+        "provider": "OptoSigma",
+        "diameter": "25.4mm",
+        "focal_length": "30mm",
+        "price": "18.10 €"
     },
     {
         "sku": "SLB-25.4-50P",
@@ -112,12 +328,12 @@
         "price": "80.70 €"
     },
     {
-        "sku": "SLB-20-40P",
-        "product": "Plano Convex Lens 20mm ",
+        "sku": "SLB-15-150P",
+        "product": "Plano Convex Lens 15mm ",
         "provider": "OptoSigma",
-        "diameter": "20mm",
-        "focal_length": "40mm",
-        "price": "16.40 €"
+        "diameter": "15mm",
+        "focal_length": "150mm",
+        "price": "15.10 €"
     },
     {
         "sku": "SLB-25.4-80P",
@@ -176,12 +392,12 @@
         "price": "80.70 €"
     },
     {
-        "sku": "SLB-20-70P",
+        "sku": "SLB-20-40P",
         "product": "Plano Convex Lens 20mm ",
         "provider": "OptoSigma",
         "diameter": "20mm",
-        "focal_length": "70mm",
-        "price": "16.00 €"
+        "focal_length": "40mm",
+        "price": "16.40 €"
     },
     {
         "sku": "SLB-25.4-120P",
@@ -240,11 +456,11 @@
         "price": "77.30 €"
     },
     {
-        "sku": "SLB-20-100P",
+        "sku": "SLB-20-70P",
         "product": "Plano Convex Lens 20mm ",
         "provider": "OptoSigma",
         "diameter": "20mm",
-        "focal_length": "100mm",
+        "focal_length": "70mm",
         "price": "16.00 €"
     },
     {
@@ -304,19 +520,11 @@
         "price": "77.30 €"
     },
     {
-        "sku": "SLB-12.7-20P",
-        "product": "Plano Convex Lens 12.7mm ",
-        "provider": "OptoSigma",
-        "diameter": "12.7mm",
-        "focal_length": "20mm",
-        "price": "16.00 €"
-    },
-    {
-        "sku": "SLB-20-170P",
+        "sku": "SLB-20-100P",
         "product": "Plano Convex Lens 20mm ",
         "provider": "OptoSigma",
         "diameter": "20mm",
-        "focal_length": "170mm",
+        "focal_length": "100mm",
         "price": "16.00 €"
     },
     {
@@ -360,20 +568,20 @@
         "price": "38.00 €"
     },
     {
-        "sku": "SLB-12.7-40P",
+        "sku": "SLB-12.7-20P",
         "product": "Plano Convex Lens 12.7mm ",
         "provider": "OptoSigma",
         "diameter": "12.7mm",
-        "focal_length": "40mm",
-        "price": "15.10 €"
+        "focal_length": "20mm",
+        "price": "16.00 €"
     },
     {
-        "sku": "SLB-25-35P",
-        "product": "Plano Convex Lens 25mm ",
+        "sku": "SLB-20-170P",
+        "product": "Plano Convex Lens 20mm ",
         "provider": "OptoSigma",
-        "diameter": "25mm",
-        "focal_length": "35mm",
-        "price": "18.10 €"
+        "diameter": "20mm",
+        "focal_length": "170mm",
+        "price": "16.00 €"
     },
     {
         "sku": "SLB-30-35P",
@@ -416,20 +624,20 @@
         "price": "38.00 €"
     },
     {
-        "sku": "SLB-12.7-70P",
+        "sku": "SLB-12.7-40P",
         "product": "Plano Convex Lens 12.7mm ",
         "provider": "OptoSigma",
         "diameter": "12.7mm",
-        "focal_length": "70mm",
+        "focal_length": "40mm",
         "price": "15.10 €"
     },
     {
-        "sku": "SLB-25-60P",
+        "sku": "SLB-25-35P",
         "product": "Plano Convex Lens 25mm ",
         "provider": "OptoSigma",
         "diameter": "25mm",
-        "focal_length": "60mm",
-        "price": "17.70 €"
+        "focal_length": "35mm",
+        "price": "18.10 €"
     },
     {
         "sku": "SLB-30-60P",
@@ -472,20 +680,20 @@
         "price": "38.00 €"
     },
     {
-        "sku": "SLB-15-20P",
-        "product": "Plano Convex Lens 15mm ",
+        "sku": "SLB-12.7-70P",
+        "product": "Plano Convex Lens 12.7mm ",
         "provider": "OptoSigma",
-        "diameter": "15mm",
-        "focal_length": "20mm",
-        "price": "16.80 €"
+        "diameter": "12.7mm",
+        "focal_length": "70mm",
+        "price": "15.10 €"
     },
     {
-        "sku": "SLB-25-90P",
+        "sku": "SLB-25-60P",
         "product": "Plano Convex Lens 25mm ",
         "provider": "OptoSigma",
         "diameter": "25mm",
-        "focal_length": "90mm",
-        "price": "17.30 €"
+        "focal_length": "60mm",
+        "price": "17.70 €"
     },
     {
         "sku": "SLB-30-90P",
@@ -528,19 +736,19 @@
         "price": "62.60 €"
     },
     {
-        "sku": "SLB-15-40P",
+        "sku": "SLB-15-20P",
         "product": "Plano Convex Lens 15mm ",
         "provider": "OptoSigma",
         "diameter": "15mm",
-        "focal_length": "40mm",
-        "price": "15.50 €"
+        "focal_length": "20mm",
+        "price": "16.80 €"
     },
     {
-        "sku": "SLB-25-150P",
+        "sku": "SLB-25-90P",
         "product": "Plano Convex Lens 25mm ",
         "provider": "OptoSigma",
         "diameter": "25mm",
-        "focal_length": "150mm",
+        "focal_length": "90mm",
         "price": "17.30 €"
     },
     {
@@ -584,19 +792,19 @@
         "price": "59.10 €"
     },
     {
-        "sku": "SLB-15-70P",
+        "sku": "SLB-15-40P",
         "product": "Plano Convex Lens 15mm ",
         "provider": "OptoSigma",
         "diameter": "15mm",
-        "focal_length": "70mm",
-        "price": "15.10 €"
+        "focal_length": "40mm",
+        "price": "15.50 €"
     },
     {
-        "sku": "SLB-25-220P",
+        "sku": "SLB-25-150P",
         "product": "Plano Convex Lens 25mm ",
         "provider": "OptoSigma",
         "diameter": "25mm",
-        "focal_length": "220mm",
+        "focal_length": "150mm",
         "price": "17.30 €"
     },
     {
@@ -640,20 +848,20 @@
         "price": "59.10 €"
     },
     {
-        "sku": "SLB-15-100P",
+        "sku": "SLB-15-70P",
         "product": "Plano Convex Lens 15mm ",
         "provider": "OptoSigma",
         "diameter": "15mm",
-        "focal_length": "100mm",
+        "focal_length": "70mm",
         "price": "15.10 €"
     },
     {
-        "sku": "SLB-25.4-35P",
-        "product": "Plano Convex Lens 25.4mm ",
+        "sku": "SLB-25-220P",
+        "product": "Plano Convex Lens 25mm ",
         "provider": "OptoSigma",
-        "diameter": "25.4mm",
-        "focal_length": "35mm",
-        "price": "18.10 €"
+        "diameter": "25mm",
+        "focal_length": "220mm",
+        "price": "17.30 €"
     },
     {
         "sku": "SLB-30-350P",
@@ -696,12 +904,20 @@
         "price": "59.10 €"
     },
     {
-        "sku": "SLB-20-25P",
-        "product": "Plano Convex Lens 20mm ",
+        "sku": "SLB-15-100P",
+        "product": "Plano Convex Lens 15mm ",
         "provider": "OptoSigma",
-        "diameter": "20mm",
-        "focal_length": "25mm",
-        "price": "17.30 €"
+        "diameter": "15mm",
+        "focal_length": "100mm",
+        "price": "15.10 €"
+    },
+    {
+        "sku": "SLB-25.4-35P",
+        "product": "Plano Convex Lens 25.4mm ",
+        "provider": "OptoSigma",
+        "diameter": "25.4mm",
+        "focal_length": "35mm",
+        "price": "18.10 €"
     },
     {
         "sku": "SLB-25.4-60P",
@@ -752,12 +968,12 @@
         "price": "80.70 €"
     },
     {
-        "sku": "SLB-20-50P",
+        "sku": "SLB-20-25P",
         "product": "Plano Convex Lens 20mm ",
         "provider": "OptoSigma",
         "diameter": "20mm",
-        "focal_length": "50mm",
-        "price": "16.40 €"
+        "focal_length": "25mm",
+        "price": "17.30 €"
     },
     {
         "sku": "SLB-25.4-90P",
@@ -816,12 +1032,12 @@
         "price": "77.30 €"
     },
     {
-        "sku": "SLB-20-80P",
+        "sku": "SLB-20-50P",
         "product": "Plano Convex Lens 20mm ",
         "provider": "OptoSigma",
         "diameter": "20mm",
-        "focal_length": "80mm",
-        "price": "16.00 €"
+        "focal_length": "50mm",
+        "price": "16.40 €"
     },
     {
         "sku": "SLB-25.4-150P",
@@ -880,11 +1096,11 @@
         "price": "77.30 €"
     },
     {
-        "sku": "SLB-20-120P",
+        "sku": "SLB-20-80P",
         "product": "Plano Convex Lens 20mm ",
         "provider": "OptoSigma",
         "diameter": "20mm",
-        "focal_length": "120mm",
+        "focal_length": "80mm",
         "price": "16.00 €"
     },
     {
@@ -944,19 +1160,11 @@
         "price": "77.30 €"
     },
     {
-        "sku": "SLB-12.7-25P",
-        "product": "Plano Convex Lens 12.7mm ",
-        "provider": "OptoSigma",
-        "diameter": "12.7mm",
-        "focal_length": "25mm",
-        "price": "16.00 €"
-    },
-    {
-        "sku": "SLB-20-200P",
+        "sku": "SLB-20-120P",
         "product": "Plano Convex Lens 20mm ",
         "provider": "OptoSigma",
         "diameter": "20mm",
-        "focal_length": "200mm",
+        "focal_length": "120mm",
         "price": "16.00 €"
     },
     {
@@ -1000,20 +1208,20 @@
         "price": "38.00 €"
     },
     {
-        "sku": "SLB-12.7-50P",
+        "sku": "SLB-12.7-25P",
         "product": "Plano Convex Lens 12.7mm ",
         "provider": "OptoSigma",
         "diameter": "12.7mm",
-        "focal_length": "50mm",
-        "price": "15.10 €"
+        "focal_length": "25mm",
+        "price": "16.00 €"
     },
     {
-        "sku": "SLB-25-40P",
-        "product": "Plano Convex Lens 25mm ",
+        "sku": "SLB-20-200P",
+        "product": "Plano Convex Lens 20mm ",
         "provider": "OptoSigma",
-        "diameter": "25mm",
-        "focal_length": "40mm",
-        "price": "18.10 €"
+        "diameter": "20mm",
+        "focal_length": "200mm",
+        "price": "16.00 €"
     },
     {
         "sku": "SLB-30-40P",
@@ -1056,20 +1264,20 @@
         "price": "38.00 €"
     },
     {
-        "sku": "SLB-12.7-80P",
+        "sku": "SLB-12.7-50P",
         "product": "Plano Convex Lens 12.7mm ",
         "provider": "OptoSigma",
         "diameter": "12.7mm",
-        "focal_length": "80mm",
+        "focal_length": "50mm",
         "price": "15.10 €"
     },
     {
-        "sku": "SLB-25-70P",
+        "sku": "SLB-25-40P",
         "product": "Plano Convex Lens 25mm ",
         "provider": "OptoSigma",
         "diameter": "25mm",
-        "focal_length": "70mm",
-        "price": "17.70 €"
+        "focal_length": "40mm",
+        "price": "18.10 €"
     },
     {
         "sku": "SLB-30-70P",
@@ -1112,20 +1320,20 @@
         "price": "38.00 €"
     },
     {
-        "sku": "SLB-15-25P",
-        "product": "Plano Convex Lens 15mm ",
+        "sku": "SLB-12.7-80P",
+        "product": "Plano Convex Lens 12.7mm ",
         "provider": "OptoSigma",
-        "diameter": "15mm",
-        "focal_length": "25mm",
-        "price": "16.80 €"
+        "diameter": "12.7mm",
+        "focal_length": "80mm",
+        "price": "15.10 €"
     },
     {
-        "sku": "SLB-25-100P",
+        "sku": "SLB-25-70P",
         "product": "Plano Convex Lens 25mm ",
         "provider": "OptoSigma",
         "diameter": "25mm",
-        "focal_length": "100mm",
-        "price": "17.30 €"
+        "focal_length": "70mm",
+        "price": "17.70 €"
     },
     {
         "sku": "SLB-30-100P",
@@ -1168,19 +1376,19 @@
         "price": "62.60 €"
     },
     {
-        "sku": "SLB-15-50P",
+        "sku": "SLB-15-25P",
         "product": "Plano Convex Lens 15mm ",
         "provider": "OptoSigma",
         "diameter": "15mm",
-        "focal_length": "50mm",
-        "price": "15.50 €"
+        "focal_length": "25mm",
+        "price": "16.80 €"
     },
     {
-        "sku": "SLB-25-170P",
+        "sku": "SLB-25-100P",
         "product": "Plano Convex Lens 25mm ",
         "provider": "OptoSigma",
         "diameter": "25mm",
-        "focal_length": "170mm",
+        "focal_length": "100mm",
         "price": "17.30 €"
     },
     {
@@ -1224,19 +1432,19 @@
         "price": "59.10 €"
     },
     {
-        "sku": "SLB-15-80P",
+        "sku": "SLB-15-50P",
         "product": "Plano Convex Lens 15mm ",
         "provider": "OptoSigma",
         "diameter": "15mm",
-        "focal_length": "80mm",
-        "price": "15.10 €"
+        "focal_length": "50mm",
+        "price": "15.50 €"
     },
     {
-        "sku": "SLB-25-250P",
+        "sku": "SLB-25-170P",
         "product": "Plano Convex Lens 25mm ",
         "provider": "OptoSigma",
         "diameter": "25mm",
-        "focal_length": "250mm",
+        "focal_length": "170mm",
         "price": "17.30 €"
     },
     {
@@ -1280,20 +1488,20 @@
         "price": "59.10 €"
     },
     {
-        "sku": "SLB-15-120P",
+        "sku": "SLB-15-80P",
         "product": "Plano Convex Lens 15mm ",
         "provider": "OptoSigma",
         "diameter": "15mm",
-        "focal_length": "120mm",
+        "focal_length": "80mm",
         "price": "15.10 €"
     },
     {
-        "sku": "SLB-25.4-40P",
-        "product": "Plano Convex Lens 25.4mm ",
+        "sku": "SLB-25-250P",
+        "product": "Plano Convex Lens 25mm ",
         "provider": "OptoSigma",
-        "diameter": "25.4mm",
-        "focal_length": "40mm",
-        "price": "18.10 €"
+        "diameter": "25mm",
+        "focal_length": "250mm",
+        "price": "17.30 €"
     },
     {
         "sku": "SLB-30-400P",
@@ -1336,12 +1544,20 @@
         "price": "59.10 €"
     },
     {
-        "sku": "SLB-20-30P",
-        "product": "Plano Convex Lens 20mm ",
+        "sku": "SLB-15-120P",
+        "product": "Plano Convex Lens 15mm ",
         "provider": "OptoSigma",
-        "diameter": "20mm",
-        "focal_length": "30mm",
-        "price": "17.30 €"
+        "diameter": "15mm",
+        "focal_length": "120mm",
+        "price": "15.10 €"
+    },
+    {
+        "sku": "SLB-25.4-40P",
+        "product": "Plano Convex Lens 25.4mm ",
+        "provider": "OptoSigma",
+        "diameter": "25.4mm",
+        "focal_length": "40mm",
+        "price": "18.10 €"
     },
     {
         "sku": "SLB-25.4-70P",
@@ -1392,12 +1608,12 @@
         "price": "80.70 €"
     },
     {
-        "sku": "SLB-20-60P",
+        "sku": "SLB-20-30P",
         "product": "Plano Convex Lens 20mm ",
         "provider": "OptoSigma",
         "diameter": "20mm",
-        "focal_length": "60mm",
-        "price": "16.40 €"
+        "focal_length": "30mm",
+        "price": "17.30 €"
     },
     {
         "sku": "SLB-25.4-100P",
@@ -1456,12 +1672,12 @@
         "price": "77.30 €"
     },
     {
-        "sku": "SLB-20-90P",
+        "sku": "SLB-20-60P",
         "product": "Plano Convex Lens 20mm ",
         "provider": "OptoSigma",
         "diameter": "20mm",
-        "focal_length": "90mm",
-        "price": "16.00 €"
+        "focal_length": "60mm",
+        "price": "16.40 €"
     },
     {
         "sku": "SLB-25.4-170P",
@@ -1520,11 +1736,11 @@
         "price": "77.30 €"
     },
     {
-        "sku": "SLB-20-150P",
+        "sku": "SLB-20-90P",
         "product": "Plano Convex Lens 20mm ",
         "provider": "OptoSigma",
         "diameter": "20mm",
-        "focal_length": "150mm",
+        "focal_length": "90mm",
         "price": "16.00 €"
     },
     {
@@ -1576,20 +1792,12 @@
         "price": "14.20 €"
     },
     {
-        "sku": "SLB-12.7-30P",
-        "product": "Plano Convex Lens 12.7mm ",
+        "sku": "SLB-20-150P",
+        "product": "Plano Convex Lens 20mm ",
         "provider": "OptoSigma",
-        "diameter": "12.7mm",
-        "focal_length": "30mm",
-        "price": "15.10 €"
-    },
-    {
-        "sku": "SLB-25-30P",
-        "product": "Plano Convex Lens 25mm ",
-        "provider": "OptoSigma",
-        "diameter": "25mm",
-        "focal_length": "30mm",
-        "price": "18.10 €"
+        "diameter": "20mm",
+        "focal_length": "150mm",
+        "price": "16.00 €"
     },
     {
         "sku": "SLB-25.4-1000P",
@@ -1632,227 +1840,19 @@
         "price": "38.00 €"
     },
     {
-        "sku": "SLB-12.7-60P",
+        "sku": "SLB-12.7-30P",
         "product": "Plano Convex Lens 12.7mm ",
         "provider": "OptoSigma",
         "diameter": "12.7mm",
-        "focal_length": "60mm",
+        "focal_length": "30mm",
         "price": "15.10 €"
     },
     {
-        "sku": "SLB-25-50P",
+        "sku": "SLB-25-30P",
         "product": "Plano Convex Lens 25mm ",
         "provider": "OptoSigma",
         "diameter": "25mm",
-        "focal_length": "50mm",
-        "price": "17.70 €"
-    },
-    {
-        "sku": "SLB-30-50P",
-        "product": "Plano Convex Lens 30mm ",
-        "provider": "OptoSigma",
-        "diameter": "30mm",
-        "focal_length": "50mm",
-        "price": "19.90 €"
-    },
-    {
-        "sku": "SLB-40-80P",
-        "product": "Plano Convex Lens 40mm ",
-        "provider": "OptoSigma",
-        "diameter": "40mm",
-        "focal_length": "80mm",
-        "price": "35.40 €"
-    },
-    {
-        "sku": "SLB-50-900P",
-        "product": "Plano Convex Lens 50mm ",
-        "provider": "OptoSigma",
-        "diameter": "50mm",
-        "focal_length": "900mm",
-        "price": "25.50 €"
-    },
-    {
-        "sku": "SLB-06-30P",
-        "product": "Plano Convex Lens 6mm ",
-        "provider": "OptoSigma",
-        "diameter": "6mm",
         "focal_length": "30mm",
-        "price": "14.20 €"
-    },
-    {
-        "sku": "SLB-60-300P",
-        "product": "Plano Convex Lens 60mm ",
-        "provider": "OptoSigma",
-        "diameter": "60mm",
-        "focal_length": "300mm",
-        "price": "38.00 €"
-    },
-    {
-        "sku": "SLB-12.7-100P",
-        "product": "Plano Convex Lens 12.7mm ",
-        "provider": "OptoSigma",
-        "diameter": "12.7mm",
-        "focal_length": "100mm",
-        "price": "15.10 €"
-    },
-    {
-        "sku": "SLB-25-80P",
-        "product": "Plano Convex Lens 25mm ",
-        "provider": "OptoSigma",
-        "diameter": "25mm",
-        "focal_length": "80mm",
-        "price": "17.30 €"
-    },
-    {
-        "sku": "SLB-30-80P",
-        "product": "Plano Convex Lens 30mm ",
-        "provider": "OptoSigma",
-        "diameter": "30mm",
-        "focal_length": "80mm",
-        "price": "19.90 €"
-    },
-    {
-        "sku": "SLB-40-120P",
-        "product": "Plano Convex Lens 40mm ",
-        "provider": "OptoSigma",
-        "diameter": "40mm",
-        "focal_length": "120mm",
-        "price": "25.50 €"
-    },
-    {
-        "sku": "SLB-50-1500P",
-        "product": "Plano Convex Lens 50mm ",
-        "provider": "OptoSigma",
-        "diameter": "50mm",
-        "focal_length": "1500mm",
-        "price": "25.50 €"
-    },
-    {
-        "sku": "SLB-07-15P",
-        "product": "Plano Convex Lens 7mm ",
-        "provider": "OptoSigma",
-        "diameter": "7mm",
-        "focal_length": "15mm",
-        "price": "14.20 €"
-    },
-    {
-        "sku": "SLB-60-1000P",
-        "product": "Plano Convex Lens 60mm ",
-        "provider": "OptoSigma",
-        "diameter": "60mm",
-        "focal_length": "1000mm",
-        "price": "38.00 €"
-    },
-    {
-        "sku": "SLB-15-30P",
-        "product": "Plano Convex Lens 15mm ",
-        "provider": "OptoSigma",
-        "diameter": "15mm",
-        "focal_length": "30mm",
-        "price": "16.80 €"
-    },
-    {
-        "sku": "SLB-25-120P",
-        "product": "Plano Convex Lens 25mm ",
-        "provider": "OptoSigma",
-        "diameter": "25mm",
-        "focal_length": "120mm",
-        "price": "17.30 €"
-    },
-    {
-        "sku": "SLB-30-120P",
-        "product": "Plano Convex Lens 30mm ",
-        "provider": "OptoSigma",
-        "diameter": "30mm",
-        "focal_length": "120mm",
-        "price": "19.90 €"
-    },
-    {
-        "sku": "SLB-40-200P",
-        "product": "Plano Convex Lens 40mm ",
-        "provider": "OptoSigma",
-        "diameter": "40mm",
-        "focal_length": "200mm",
-        "price": "25.50 €"
-    },
-    {
-        "sku": "SLB-50-3000P",
-        "product": "Plano Convex Lens 50mm ",
-        "provider": "OptoSigma",
-        "diameter": "50mm",
-        "focal_length": "3000mm",
-        "price": "25.50 €"
-    },
-    {
-        "sku": "SLB-07-30P",
-        "product": "Plano Convex Lens 7mm ",
-        "provider": "OptoSigma",
-        "diameter": "7mm",
-        "focal_length": "30mm",
-        "price": "13.80 €"
-    },
-    {
-        "sku": "SLB-80-200P",
-        "product": "Plano Convex Lens 80mm ",
-        "provider": "OptoSigma",
-        "diameter": "80mm",
-        "focal_length": "200mm",
-        "price": "59.10 €"
-    },
-    {
-        "sku": "SLB-15-60P",
-        "product": "Plano Convex Lens 15mm ",
-        "provider": "OptoSigma",
-        "diameter": "15mm",
-        "focal_length": "60mm",
-        "price": "15.50 €"
-    },
-    {
-        "sku": "SLB-25-200P",
-        "product": "Plano Convex Lens 25mm ",
-        "provider": "OptoSigma",
-        "diameter": "25mm",
-        "focal_length": "200mm",
-        "price": "17.30 €"
-    },
-    {
-        "sku": "SLB-30-200P",
-        "product": "Plano Convex Lens 30mm ",
-        "provider": "OptoSigma",
-        "diameter": "30mm",
-        "focal_length": "200mm",
-        "price": "19.90 €"
-    },
-    {
-        "sku": "SLB-40-350P",
-        "product": "Plano Convex Lens 40mm ",
-        "provider": "OptoSigma",
-        "diameter": "40mm",
-        "focal_length": "350mm",
-        "price": "25.50 €"
-    },
-    {
-        "sku": "SLB-50.8-70P",
-        "product": "Plano Convex Lens 50.8mm ",
-        "provider": "OptoSigma",
-        "diameter": "50.8mm",
-        "focal_length": "70mm",
-        "price": "29.40 €"
-    },
-    {
-        "sku": "SLB-08-10P",
-        "product": "Plano Convex Lens 8mm ",
-        "provider": "OptoSigma",
-        "diameter": "8mm",
-        "focal_length": "10mm",
-        "price": "20.10 €"
-    },
-    {
-        "sku": "SLB-80-350P",
-        "product": "Plano Convex Lens 80mm ",
-        "provider": "OptoSigma",
-        "diameter": "80mm",
-        "focal_length": "350mm",
-        "price": "59.10 €"
+        "price": "18.10 €"
     }
 ]

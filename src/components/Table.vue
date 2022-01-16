@@ -46,9 +46,6 @@ export default {
   name: 'Table',
   mounted() {
     this.products = optoSigma.concat(thorlabs)
-    this.products.forEach(product => {
-      this.products[product.sku] = product
-    })
   },
   methods: {
     compare () { 

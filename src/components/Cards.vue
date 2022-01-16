@@ -48,7 +48,7 @@
         <v-slide-group
         v-model="comparison"
         active-class="success"
-        mobile-break-point="1000"
+        mobile-breakpoint="1000"
         >
         <v-card
             v-for="product in comparison"
