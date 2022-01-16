@@ -1,4 +1,4 @@
-# vue_meetoptics
+# vue
 
 > A Vue.js project
 
